@@ -74,7 +74,7 @@ Hooks fire on every session: `UserPromptSubmit`, `PostToolUse`, `PreCompact` —
 
 ### voltagent-infra
 
-14 DevOps/cloud specialist subagents (Azure, K8s, Terraform, SRE, etc.) — not yet used in your dev workflow.
+14 DevOps/cloud specialist subagents (Azure, K8s, Terraform, SRE, etc.).
 
 ## Pattern Map: What You Actually Use
 
